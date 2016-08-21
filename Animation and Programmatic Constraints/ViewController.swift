@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // Buttons
+    // Buttons  
     let topLeftButton = UIButton()
     let topRightButton = UIButton()
     let bottomLeftButton = UIButton()
